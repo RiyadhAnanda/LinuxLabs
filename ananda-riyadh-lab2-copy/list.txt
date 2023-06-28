@@ -1,0 +1,11 @@
+total 16
+-rw-r--r-- 1 rananda rananda   29 Sep 14 20:55 currentdate.txt
+drwxr-xr-x 2 rananda rananda 4096 Sep 14 20:52 dir2
+-rw-r--r-- 1 rananda rananda    0 Sep 14 20:24 file1
+-rw-r--r-- 1 rananda rananda    0 Sep 14 20:24 file2
+-rw-r--r-- 1 rananda rananda    0 Sep 14 20:24 file3
+-rw-r--r-- 1 rananda rananda    0 Sep 14 20:24 file5
+-rw-r--r-- 1 rananda rananda    0 Sep 14 20:54 file6
+-rw-r--r-- 1 rananda rananda    0 Sep 14 20:56 list.txt
+-rw-r--r-- 1 rananda rananda    8 Sep 14 20:56 me.txt
+-rw-r--r-- 1 rananda rananda   16 Sep 14 20:55 myhost.txt
