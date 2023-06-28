@@ -1,0 +1,4 @@
+#!/bin/bash
+game= "Pac-Man"
+
+echo ${GAME#*-}
