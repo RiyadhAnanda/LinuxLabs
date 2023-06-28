@@ -1,0 +1,5 @@
+h # copy pattern space to hold space
+n # read the next line of input into pattern space
+p # output pattern space
+g # copy hold space to pattern space
+p # output pattern space
