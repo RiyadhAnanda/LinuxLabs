@@ -1,0 +1,36 @@
+Applications
+Desktop
+Documents
+Downloads
+Dropbox
+GirlsCode
+Google Drive
+Library
+Movies
+Music
+OneDrive
+Pictures
+Public
+PycharmProjects
+Test.txt
+VBoxGuestAdditions.iso
+VirtualBox VMs
+com.apple.airport.preferences.plist
+february
+file1
+hw1
+hw3
+linktests
+linux-class
+march
+network_config
+practice.txt
+public_dir
+temp
+temp.file
+temp.tar
+temp.tar.gz
+test2
+testfile
+typescript
+z
